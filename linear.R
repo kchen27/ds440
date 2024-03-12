@@ -4,6 +4,8 @@ library(lubridate)
 library(tidyverse)
 library(dynlm)
 
+### Authors: Sarah Lynn DeCarlo, Kyle Chen, Kate Acosta
+
 ### Load data
 airbnb_data <- read.csv("airbnb-modified.csv")
 
