@@ -6,6 +6,7 @@ library(dynlm)
 
 ### Authors: Sarah Lynn DeCarlo, Kyle Chen, Kate Acosta
 ## Testing it
+# Git test for Kate
 
 ### Load data
 airbnb_data <- read.csv("airbnb-modified.csv")
